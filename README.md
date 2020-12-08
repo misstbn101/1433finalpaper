@@ -122,7 +122,7 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
    * Input file(s): full_data_combined_pt_mn.csv
    * Output file(s): graphs to save as you will
    
-**STEP 6: Run stata_math_ols_x.do** Purpose: perfrom OLS regression and find estimates for class size average effects on average math scores with x covariates, values used to help create Tables IIIa-f
+**STEP 6: Run stata_math_ols_x.do (x: 0-4)** Purpose: perfrom OLS regression and find estimates for class size average effects on average math scores with x covariates, values used to help create Tables IIIa-f
    * Program(s): Stata/SE
    * Package(s): None
    * Input file(s): full_data_combined_pt_mn.csv
@@ -134,7 +134,7 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
    * Input file(s): full_data_combined_pt_mn.csv
    * Output file(s): None
    
-**STEP 8: Run stata_ela_ols_x.do** Purpose: perfrom OLS regression and find estimates for class size average effects on average ELA scores with x covariates, values used to help create Tables IIIa-f
+**STEP 8: Run stata_ela_ols_x.do (x: 0-4)** Purpose: perfrom OLS regression and find estimates for class size average effects on average ELA scores with x covariates, values used to help create Tables IIIa-f
    * Program(s): Stata/SE
    * Package(s): None
    * Input file(s): full_data_combined_pt_mn.csv
@@ -146,7 +146,7 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
    * Input file(s): full_data_combined_pt_mn.csv
    * Output file(s): None
    
-**STEP 10: Run stata_math_ive_x.do** Purpose: perfrom 2SLS regression and find estimates for class size average effects on average math scores with x covariates, values used to help create Tables IIIa-f
+**STEP 10: Run stata_math_ive_x.do (x: 0-4)** Purpose: perfrom 2SLS regression and find estimates for class size average effects on average math scores with x covariates, values used to help create Tables IIIa-f
    * Program(s): Stata/SE
    * Package(s): None
    * Input file(s): full_data_combined_pt_mn.csv
@@ -158,7 +158,7 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
    * Input file(s): full_data_combined_pt_mn.csv
    * Output file(s): None
 
-**STEP 12: Run stata_ela_ive_x.do** Purpose: perfrom 2SLS regression and find estimates for class size average effects on average ELA scores with x covariates, values used to help create Tables IIIa-f
+**STEP 12: Run stata_ela_ive_x.do (x: 0-4)** Purpose: perfrom 2SLS regression and find estimates for class size average effects on average ELA scores with x covariates, values used to help create Tables IIIa-f
    * Program(s): Stata/SE
    * Package(s): None
    * Input file(s): full_data_combined_pt_mn.csv
