@@ -50,7 +50,25 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
 * "TOTAL REGISTER": student enrollment
 * "AVERAGE CLASS SIZE": average class size
 
+#### Variables for 2010-2011_Class_Size_-_School-level_detail.csv
+* "SCHOOL CODE": school's unique code ID
+* "GRADE": grade level
+* "PROGRAM TYPE": class's program type (ie, "GEN ED", "GT")
+* "NUMBER OF SECTIONS": number of classes
+* "NUMBER OF STUDENTS / SEATS FILLED": student enrollment
+* "AVERAGE CLASS SIZE": average class size
 
+#### Variables for 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv
+* "DBN: school's unique DBN code (can be matched with code ID)
+* "Grade": grade level
+* "Year": school year
+* "Mean Scale Score": average scaled math score
+
+#### Variables for 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv
+* "DBN: school's unique DBN code (can be matched with code ID)
+* "Grade": grade level
+* "Year": school year
+* "Mean Scale Score": average scaled math score
 
 ## Data Analysis
 
