@@ -30,7 +30,27 @@ Table of Contents
  * 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv: contains average English Language Arts (ELA) test scores by grade by school
  * sam10.csv: contains whether a school received Title 1 funding in the 2009-2010 school year
  * sam09_new.csv: contains whether a school received Title 1 funding in the 2010-2011 school year
+ * 2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv: contains percentage of school body in the Free & Reduced Lunch program by school
+ 
+ ### Scripts
+ 
  
  
  ## Data Description
 Data was aggregated from the City of New York’s Open Data archives and NYC Department of Education. It provides information on class size averages, mean standardized test scores, enrollment, poverty statistics, and other school characteristics. The data can be used to estimate how different factors affect academic performance at the grade level. This study only looks at the information for grades 3 through 8 from the 2009-2010 and 2010-2011 academic years. These are the only grades and years following the 2009 class limit regulations that have enough consistent information to perform accurate regressions. 1,092 schools were surveyed, totaling 30,201 classrooms over the 2 years.
+
+
+## Data Dictionary of Necessary Variables
+
+#### Variables for 2009_-_2010_Class_Size_-_School-level_Detail.csv
+* "SCHOOL CODE": school's unique code ID
+* "GRADE": grade level
+* "PROGRAM TYPE": class's program type (ie, "GEN ED", "GT")
+* "NUMBER OF CLASSES": number of classes
+* "TOTAL REGISTER": student enrollment
+* "AVERAGE CLASS SIZE": average class size
+
+
+
+## Data Analysis
+
