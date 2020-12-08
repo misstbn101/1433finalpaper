@@ -82,6 +82,7 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
 * "DBN": school's unique DBN code (can be matched with code ID)
 * "schoolyear"" school year
 * "frl_percent": percent of school body in the Free & Reduced Lunch program
+* **raw_cit_sum** = Count of raw citations for all databases within each citation quartile (for 1991-2012 only)
 
 
 
