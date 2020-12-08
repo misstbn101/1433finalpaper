@@ -59,16 +59,29 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
 * "AVERAGE CLASS SIZE": average class size
 
 #### Variables for 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv
-* "DBN: school's unique DBN code (can be matched with code ID)
+* "DBN": school's unique DBN code (can be matched with code ID)
 * "Grade": grade level
 * "Year": school year
 * "Mean Scale Score": average scaled math score
 
 #### Variables for 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv
-* "DBN: school's unique DBN code (can be matched with code ID)
+* "DBN": school's unique DBN code (can be matched with code ID)
 * "Grade": grade level
 * "Year": school year
 * "Mean Scale Score": average scaled math score
 
-## Data Analysis
+#### Variables for sam10.csv
+* "DBN": school's unique DBN code (can be matched with code ID)
+* "NT1=0": dummy variable for whether or not the school received Title 1 funding (1: yes)
+
+#### Variables for sam09_new.csv
+* "DBN": school's unique DBN code (can be matched with code ID)
+* "NT1=0": dummy variable for whether or not the school received Title 1 funding (1: yes)
+
+#### Variables for 2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv
+* "DBN": school's unique DBN code (can be matched with code ID)
+* "schoolyear"" school year
+* "frl_percent": percent of school body in the Free & Reduced Lunch program
+
+
 
