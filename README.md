@@ -82,7 +82,26 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
 * "DBN": school's unique DBN code (can be matched with code ID)
 * "schoolyear"" school year
 * "frl_percent": percent of school body in the Free & Reduced Lunch program
-* **raw_cit_sum** = Count of raw citations for all databases within each citation quartile (for 1991-2012 only)
+
+
+## Data Analysis
+
+#### Program used:
+* Python 3.8.3 (default, Jul  2 2020, 11:26:31)
+* [Clang 10.0.0 ] :: Anaconda, Inc. on darwin
+* Platform: x86_64-apple-darwin13.4.0 (64-bit)
+* Running under: OS X Catalina 10.15.6
+* Attached base packages:
+  * pandas
+  
+* Stata/SE 16.1 for Mac (64-bit Intel)
+* Revision 30 Jun 2020
+* Running under: OS X Catalina 10.15.6
+* Attached base packages:
+  * expand
+  * twoway
+  * ivregress
+  * tabstat
 
 
 
