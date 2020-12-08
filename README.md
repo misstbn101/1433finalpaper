@@ -9,6 +9,7 @@ Table of Contents
  * Installation
  * Data & File Organization
  * Data Description
+ * Data Analysis
  * Configuration
  * Troubleshooting
  * FAQ
@@ -27,6 +28,8 @@ Table of Contents
  * 2010-2011_Class_Size_-_School-level_detail.csv: contains information on average class size and ICT and G&T programs by grade by school in the 2010-2011 school year
  * 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv: contains average math test scores by grade by school
  * 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv: contains average English Language Arts (ELA) test scores by grade by school
+ * sam10.csv: contains whether a school received Title 1 funding in the 2009-2010 school year
+ * sam09_new.csv: contains whether a school received Title 1 funding in the 2010-2011 school year
  
  
  ## Data Description
