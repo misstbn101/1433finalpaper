@@ -93,7 +93,6 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
 * Running under: OS X Catalina 10.15.6
 * Attached base packages:
   * pandas
-  
 * Stata/SE 16.1 for Mac (64-bit Intel)
 * Revision 30 Jun 2020
 * Running under: OS X Catalina 10.15.6
@@ -102,6 +101,25 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
   * twoway
   * ivregress
   * tabstat
+
+#### There are 8 scripts that work sequentially (folder organized differently on local computer, so check files to see if changes need to be made in order for scripts to run):
+
+**STEP 1: Run data_cleaning_script_2010.py** Purpose: clean and combine all data for the 2009-2010 academic year
+   * Program(s): Python
+   * Package(s): pandas
+   * Input file(s):  2009_-_2010_Class_Size_-_School-level_Detail.csv, 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv, 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv, Controls & Demographics/2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv, sam10.csv
+   * Output file(s): full_data_2010.csv
+
+**STEP 2: Run data_cleaning_script_2011.py** Purpose: clean and combine all data for the 2010-2011 academic year
+   * Program(s): Python
+   * Package(s): pandas
+   * Input file(s):  2010-2011_Class_Size_-_School-level_detail.csv, 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv, 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv, Controls & Demographics/2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv, sam09_new.csv
+   * Output file(s): full_data_2011.csv
+
+**STEP 3: Run data_combining_script.py** Purpose: clean and combine created 2009-2010 AY and 2010-2011 AY datasets
+   * Package(s): pandas
+   * Input file(s): full_data_2010.csv, full_data_2011.csv
+   * Output file(s): full_data_combined_pt_mn.csv
 
 
 
