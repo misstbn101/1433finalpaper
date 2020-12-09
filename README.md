@@ -1,5 +1,5 @@
-# 1433 Final Paper Datasets and Code Scripts
-## Topic: The Effect of Average Class Size on Average Test Scores & the Use of Maimonides’ Rule
+# 14.33 Final Paper Datasets and Code Scripts
+Topic: The Effect of Average Class Size on Average Test Scores & the Use of Maimonides’ Rule
 
 Table of Contents
 ---------------------
