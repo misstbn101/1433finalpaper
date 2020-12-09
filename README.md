@@ -19,13 +19,13 @@ Data was aggregated from the City of New York’s Open Data archives and NYC Dep
 
 
  ### Data Files
- * 2009_-_2010_Class_Size_-_School-level_Detail.csv: contains information on average class size and ICT and G&T programs by grade by school in the 2009-2010 school year
- * 2010-2011_Class_Size_-_School-level_detail.csv: contains information on average class size and ICT and G&T programs by grade by school in the 2010-2011 school year
- * 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv: contains average math test scores by grade by school
- * 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv: contains average English Language Arts (ELA) test scores by grade by school
- * sam10.csv: contains whether a school received Title 1 funding in the 2009-2010 school year
- * sam09_new.csv: contains whether a school received Title 1 funding in the 2010-2011 school year
- * 2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv: contains percentage of school body in the Free & Reduced Lunch program by school
+ * 2009_-_2010_Class_Size_-_School-level_Detail.csv: contains information on average class size and ICT and G&T programs by grade by school in the 2009-2010 school year (https://data.cityofnewyork.us/Education/2009-2010-Class-Size-School-level-Detail/d3ge-anaz)
+ * 2010-2011_Class_Size_-_School-level_detail.csv: contains information on average class size and ICT and G&T programs by grade by school in the 2010-2011 school year (https://data.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3)
+ * 2006_-_2011_NYS_Math_Test_Results_By_Grade_-_School_Level_-_All_Students.csv: contains average math test scores by grade by school (https://data.cityofnewyork.us/Education/2006-2011-NYS-Math-Test-Results-By-Grade-School-Le/jufi-gzgp)
+ * 2006_-_2011_English_Language_Arts__ELA__Test_Results_by_Grade_-_School_level_-_All_Students.csv: contains average English Language Arts (ELA) test scores by grade by school (https://data.cityofnewyork.us/Education/2006-2011-English-Language-Arts-ELA-Test-Results-b/yu9n-iqyk)
+ * sam10.csv: contains whether a school received Title 1 funding in the 2009-2010 school year (https://www.nycenet.edu/offices/finance_schools/budget/DSBPO/allocationmemo/fy09_10/FY10_PDF/sam10.pdf)
+ * sam09_new.csv: contains whether a school received Title 1 funding in the 2010-2011 school year (https://www.nycenet.edu/offices/finance_schools/budget/DSBPO/allocationmemo/fy10_11/FY11_PDF/sam09.pdf)
+ * 2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv: contains percentage of school body in the Free & Reduced Lunch program by school (https://data.cityofnewyork.us/Education/2006-2012-School-Demographics-and-Accountability-S/ihfw-zy9j)
 
 
 ### Data Dictionary of Necessary Variables
